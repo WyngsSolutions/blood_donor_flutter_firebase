@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742984072307",
+    "project_id": "kv-donors",
+    "storage_bucket": "kv-donors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742984072307:android:d8f6419583e952528bbe06",
+        "android_client_info": {
+          "package_name": "com.kv.donors.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742984072307-4e4e43jcho4up83sbuvaj9e5jo1k59hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4P7k-ZN03KduHoD1ptLskUNDD69Dcu8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742984072307-4e4e43jcho4up83sbuvaj9e5jo1k59hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
